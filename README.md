@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guilherme and I'm a Back-end Developer</h2>
+<h2 align="left">Hi 👋! Meu nome é Guilherme e eu sou um Back-end Developer</h2>
 
 ###
 
@@ -8,6 +8,8 @@
 </div>
 
 ###
+
+<h2 align="left">Minhas principais linguagens:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
