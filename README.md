@@ -46,6 +46,7 @@
 Para ver todos os meus Badges, clique [aqui](https://www.credly.com/users/guilherme-silva-souza).  
 
 <!--START_SECTION:badges-->
+[![AWS Educate Getting Started with Compute](https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](https://www.credly.com/badges/051c48d0-b20d-43f4-a541-1c34dfb973ac "AWS Educate Getting Started With Compute")
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](https://www.credly.com/badges/6c77ac8d-8cd3-433a-81b9-2f3e58546e2c "AWS Educate Introduction to Cloud 101")
 [![Google Cloud Foundations](https://images.credly.com/size/110x110/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png)](https://www.credly.com/earner/earned/badge/7ab3a1b6-18fd-4437-b99d-09ef634b6e05 "Google Cloud Foundations")
 [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](https://www.credly.com/badges/ff72f575-a2e1-4db2-8b30-e6be9ba26410 "Prepare Data for ML APIs on Google Cloud Skill Badge")
