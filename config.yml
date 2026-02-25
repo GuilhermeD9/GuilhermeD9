@@ -10,9 +10,6 @@ profile:
   location: "Aracaju, Sergipe - Brasil"
   bio: |
     Desenvolvedor Back-end especializado em Java e Spring Boot,
-    com experiência na modernização de sistemas fazendários
-    e integração entre sistemas internos e externos.
-
     Focado em performance, segurança, escalabilidade e boas práticas.
   philosophy: '"Código bem escrito hoje é menos problema amanhã."'
 
@@ -50,13 +47,13 @@ galaxy_arms:
 
 # Projetos em destaque (ajuste se quiser adicionar mais)
 projects:
-  - repo: "GuilhermeD9/Api-Tarefas"
+  - repo: "GuilhermeD9/wpp-reminder"
     arm: 0
-    description: "API REST para gerenciamento de tarefas com Spring Boot e banco relacional."
+    description: "Um bot do whatsapp que não te deixa esquecer do seu remédio."
 
-  - repo: "GuilhermeD9/collections-java-dio"
+  - repo: "GuilhermeD9/payment-flux"
     arm: 0
-    description: "Projeto prático explorando estruturas de dados e Collections em Java."
+    description: "Projeto de fluxo de pagamento explorando Spring, RabbitMQ, Postgres e Docker"
 
 # Tema (mantive elegante e profissional)
 theme:
