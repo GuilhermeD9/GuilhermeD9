@@ -1,0 +1,87 @@
+# Galaxy Profile README Configuration
+
+# Seu username do GitHub (obrigatório)
+username: GuilhermeD9
+
+profile:
+  name: "Guilherme Silva Souza"
+  tagline: "Backend Java Developer | Spring Boot | APIs REST"
+  company: "SergipeTec – Sergipe Parque Tecnológico"
+  location: "Aracaju, Sergipe - Brasil"
+  bio: |
+    Desenvolvedor Back-end especializado em Java e Spring Boot,
+    com experiência na modernização de sistemas fazendários
+    e integração entre sistemas internos e externos.
+
+    Focado em performance, segurança, escalabilidade e boas práticas.
+  philosophy: '"Código bem escrito hoje é menos problema amanhã."'
+
+social:
+  email: "sgsouza.173@gmail.com"
+  linkedin: "guilherme-silva7a"
+  website: "https://github.com/GuilhermeD9"
+
+# Áreas principais (Galaxy Arms)
+galaxy_arms:
+  - name: "Backend Engineering"
+    color: "synapse_cyan"
+    items:
+      - "Java"
+      - "Spring Boot"
+      - "Node.js"
+
+  - name: "Data & Messaging"
+    color: "dendrite_violet"
+    items:
+      - "PostgreSQL"
+      - "MySQL"
+      - "MongoDB"
+      - "RabbitMQ"
+      - "H2"
+
+  - name: "Cloud & DevOps"
+    color: "axon_amber"
+    items:
+      - "AWS S3"
+      - "Docker"
+      - "Git"
+      - "GitHub Actions"
+      - "Linux"
+
+# Projetos em destaque (ajuste se quiser adicionar mais)
+projects:
+  - repo: "GuilhermeD9/Api-Tarefas"
+    arm: 0
+    description: "API REST para gerenciamento de tarefas com Spring Boot e banco relacional."
+
+  - repo: "GuilhermeD9/collections-java-dio"
+    arm: 0
+    description: "Projeto prático explorando estruturas de dados e Collections em Java."
+
+# Tema (mantive elegante e profissional)
+theme:
+  void: "#0b0f19"
+  nebula: "#111827"
+  star_dust: "#1f2937"
+  synapse_cyan: "#06b6d4"
+  dendrite_violet: "#8b5cf6"
+  axon_amber: "#f59e0b"
+  text_bright: "#f9fafb"
+  text_dim: "#9ca3af"
+  text_faint: "#6b7280"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
